@@ -1,8 +1,8 @@
 import spotipy
 from spotipy.oauth2 import SpotifyClientCredentials
 
-cid = 'eb277b17ef36405a8d47aae6dd27d276'
-secret = 'e29bd49d11874fcfae23a9cf1298df74'
+cid = ''
+secret = ''
 
 
 
